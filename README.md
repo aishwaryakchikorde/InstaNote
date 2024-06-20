@@ -48,4 +48,6 @@ Acknowledgements
 
                  * Icons used in the application are sourced from https://www.iconfinder.com/
 
+                 * This project was inspired by the **Fast WPF in C# Windows Presentation Foundation for Beginners** course on https://www.udemy.com/
+
                  * Code support from https://openai.com/ for language model support.
