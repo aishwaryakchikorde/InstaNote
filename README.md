@@ -45,5 +45,6 @@ Contributing
 
 Acknowledgements
 
-                 Icons used in the application are sourced from https://www.iconfinder.com/
-                 Code support from https://openai.com/ for language model support.
+                 * Icons used in the application are sourced from https://www.iconfinder.com/
+
+                 * Code support from https://openai.com/ for language model support.
