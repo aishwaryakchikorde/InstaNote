@@ -29,7 +29,7 @@ Technologies Used
 Getting Started
 To run the InstaNote application locally:
 
-* Clone this repository:  git clone https://github.com/your_username/InstaNote.git
+* Clone this repository:  git clone https://aishwaryakchikorde/InstaNote.git
 
 * Open the solution in Visual Studio (or any IDE that supports WPF development).
 
