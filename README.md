@@ -1,5 +1,6 @@
 InstaNote
-InstaNote is a simple notepad-like application built using WPF (Windows Presentation Foundation). It allows users to create, edit, save, and manage text notes conveniently.
+
+        InstaNote is a simple notepad-like application built using WPF (Windows Presentation Foundation). It allows users to create, edit, save, and manage text notes conveniently.
 
 Features
         
